@@ -1,0 +1,6 @@
+{
+  "name": "Termux Weather Station & Dashboard",
+  "description": "Private local network weather dashboard and caching server for Android/Termux host with real-time conditions, interactive map, historical trends, customizable alerts, and low-latency proxy cache.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
